@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning - Course Project"
-author: "Derek McLoughlin"
-date: "26 Sept 2016"
+author: "Pranitha Rallabandi"
+date: "19 December 2020"
 output: html_document
 ---
 
